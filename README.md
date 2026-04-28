@@ -79,6 +79,6 @@ coming soon
 ## 📬 Contact
 Name: Benjamin Ambrosio  
 Email: benjamin.ambrosio@univ-lehavre.fr
-GitHub: https://github.com/yourusername  
+GitHub: https://github.com/benjamin-ambrosio  
 
 ---
