@@ -1,0 +1,2 @@
+
+This folder contains the pdf of the article as well as the .zip of tex + figures
